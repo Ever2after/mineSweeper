@@ -1,0 +1,22 @@
+table{
+	border : 1px solid #ccc;
+	border-collapse : collapse;
+	text-align : center;
+}
+
+tr, td{
+	border : 1px solid #fff;
+	width : 30px;
+	height : 30px;
+}
+
+.mine{
+	background-color : #eee;
+	cursor : default;
+}
+
+.hidden, .flag{
+	background-color : #ccc;
+	cursor : pointer;
+}
+
